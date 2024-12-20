@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	ejemplos.String()
+	ejemplos.Conversion()
 }
 
 //Ejemplo Hola Mundo
@@ -22,3 +22,15 @@ func main() {
 
 //Ejemplo String
 //ejemplos.String()
+
+//Ejemplo Array
+//ejemplos.Arrays()
+
+//Ejemplo Reflect
+//ejemplos.Verificar()
+
+//Ejemplo Conversion
+//ejemplos.Conversion()
+
+//Ejemplo Valor cero
+//ejemplos.ValorCero()
