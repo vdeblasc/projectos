@@ -2,10 +2,10 @@ package ejemplos
 
 import "fmt"
 
-func sumar(a int, b int) int {
+func Sumar(a int, b int) int {
 	return a + b
 }
 
-func mainEnteros() {
-	fmt.Println("La suma de 5 + 6 es = ", sumar(6, 5))
+func Enteros() {
+	fmt.Println("La suma de 5 + 6 es = ", Sumar(6, 5))
 }

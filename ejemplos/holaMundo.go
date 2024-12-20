@@ -2,6 +2,6 @@ package ejemplos
 
 import "fmt"
 
-func mainHolaMundo() {
+func HolaMundo() {
 	fmt.Println("Hola Mundo")
 }

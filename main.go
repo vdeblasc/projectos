@@ -5,14 +5,20 @@ import (
 )
 
 func main() {
-	ejemplos.Name()
+	ejemplos.String()
 }
 
 //Ejemplo Hola Mundo
-//ejemplos.mainHolaMundo()
+//ejemplos.HolaMundo()
 
 //Ejemplo Argumento
-//ejemplos.mainArgumento()
+//ejemplos.Argumento()
 
 //Ejemplo Parametros
-//ejemplos.mainEnteros()
+//ejemplos.Enteros()
+
+//Ejemplo Booleano
+//ejemplos.Booleano()
+
+//Ejemplo String
+//ejemplos.String()
